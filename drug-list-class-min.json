@@ -1,0 +1,709 @@
+[
+ {
+  "Brand Name": "Celexa",
+  "Generic ": "Citalopram",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SSRI"
+ },
+ {
+  "Brand Name": "Lexapro",
+  "Generic ": "Escitalopram",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SSRI"
+ },
+ {
+  "Brand Name": "Luvox",
+  "Generic ": "Fluvoxamine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SSRI"
+ },
+ {
+  "Brand Name": "Paxil",
+  "Generic ": "Paroxetine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SSRI"
+ },
+ {
+  "Brand Name": "Zoloft",
+  "Generic ": "Sertraline",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SSRI"
+ },
+ {
+  "Brand Name": "Viibryd",
+  "Generic ": "Vilazodone",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SSRI"
+ },
+ {
+  "Brand Name": "Prozac",
+  "Generic ": "Fluoxetine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SSRI"
+ },
+ {
+  "Brand Name": "Pristiq",
+  "Generic ": "Desvenlafaxine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SNRI"
+ },
+ {
+  "Brand Name": "Fetzima",
+  "Generic ": "Levomilnacipran",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SNRI"
+ },
+ {
+  "Brand Name": "Effexor",
+  "Generic ": "Venlafaxine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SNRI"
+ },
+ {
+  "Brand Name": "Cymbalta",
+  "Generic ": "Duloxetine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "SNRI"
+ },
+ {
+  "Brand Name": "Elavil",
+  "Generic ": "Amitriptyline",
+  "Drug Class": "Antidepressants",
+  "Subclass": "TCA"
+ },
+ {
+  "Brand Name": "Anafranil",
+  "Generic ": "Clomipramine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "TCA"
+ },
+ {
+  "Brand Name": "Sinequan",
+  "Generic ": "Doxepin",
+  "Drug Class": "Antidepressants",
+  "Subclass": "TCA"
+ },
+ {
+  "Brand Name": "Tofranil",
+  "Generic ": "Imipramine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "TCA"
+ },
+ {
+  "Brand Name": "Norpramin",
+  "Generic ": "Desipramine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "TCA"
+ },
+ {
+  "Brand Name": "Asendin",
+  "Generic ": "Amoxapine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "TCA"
+ },
+ {
+  "Brand Name": "Vivactil",
+  "Generic ": "Protriptyline",
+  "Drug Class": "Antidepressants",
+  "Subclass": "TCA"
+ },
+ {
+  "Brand Name": "Pamelor",
+  "Generic ": "Nortriptyline",
+  "Drug Class": "Antidepressants",
+  "Subclass": "TCA"
+ },
+ {
+  "Brand Name": "Surmontil",
+  "Generic ": "Trimipramine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "TCA"
+ },
+ {
+  "Brand Name": "Marplan",
+  "Generic ": "Isocarboxazid",
+  "Drug Class": "Antidepressants",
+  "Subclass": "MAOI"
+ },
+ {
+  "Brand Name": "Nardil",
+  "Generic ": "Phenelzine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "MAOI"
+ },
+ {
+  "Brand Name": "Parnate",
+  "Generic ": "Tranylcypromine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "MAOI"
+ },
+ {
+  "Brand Name": "Emsam",
+  "Generic ": "Selegiline",
+  "Drug Class": "Antidepressants",
+  "Subclass": "MAOI"
+ },
+ {
+  "Brand Name": "Auvelity®",
+  "Generic ": "Dextromethorphan HBr and Buproprion HCl",
+  "Drug Class": "Antidepressants",
+  "Subclass": "Other "
+ },
+ {
+  "Brand Name": "Zulresso",
+  "Generic ": "Brexanolone",
+  "Drug Class": "Antidepressants",
+  "Subclass": "Other"
+ },
+ {
+  "Brand Name": "Spravato",
+  "Generic ": "Esketamine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "Other"
+ },
+ {
+  "Brand Name": "Wellbutrin",
+  "Generic ": "Bupropion",
+  "Drug Class": "Antidepressants",
+  "Subclass": "Other"
+ },
+ {
+  "Brand Name": "Generic Only",
+  "Generic ": "Nefazodone",
+  "Drug Class": "Antidepressants",
+  "Subclass": "Other"
+ },
+ {
+  "Brand Name": "Desyrel",
+  "Generic ": "Trazodone",
+  "Drug Class": "Antidepressants",
+  "Subclass": "Other"
+ },
+ {
+  "Brand Name": "Remeron",
+  "Generic ": "Mirtazapine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "Other"
+ },
+ {
+  "Brand Name": "Trintellix",
+  "Generic ": "Vortioxetine",
+  "Drug Class": "Antidepressants",
+  "Subclass": "Other"
+ },
+ {
+  "Brand Name": "Abilify",
+  "Generic ": "Aripiprazole",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Lybalvi®",
+  "Generic ": "Olanzapine and Samidorphan",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Rexulti",
+  "Generic ": "Brexpiprazole",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Vraylar",
+  "Generic ": "Cariprazine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Latuda",
+  "Generic ": "Lurasidone",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Invega",
+  "Generic ": "Paliperidone",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Geodon",
+  "Generic ": "Ziprasidone",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Saphris",
+  "Generic ": "Asenapine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Zyprexa",
+  "Generic ": "Olanzapine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Seroquel",
+  "Generic ": "Quetiapine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Nuplazid",
+  "Generic ": "Pimavanserin",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Caplyta",
+  "Generic ": "Lumateperone",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Fanapt",
+  "Generic ": "Iloperidone",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Clozaril",
+  "Generic ": "Clozapine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Risperdal",
+  "Generic ": "Risperidone",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "Second Generation"
+ },
+ {
+  "Brand Name": "Mellaril",
+  "Generic ": "Thioridazine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "First Generation"
+ },
+ {
+  "Brand Name": "Thorazine",
+  "Generic ": "Chlorpromazine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "First Generation"
+ },
+ {
+  "Brand Name": "Trilafon",
+  "Generic ": "Perphenazine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "First Generation"
+ },
+ {
+  "Brand Name": "Haldol",
+  "Generic ": "Haloperidol",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "First Generation"
+ },
+ {
+  "Brand Name": "Modecate",
+  "Generic ": "Fluphenazine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "First Generation"
+ },
+ {
+  "Brand Name": "GENERIC ONLY",
+  "Generic ": "Trifluoperazine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "First Generation"
+ },
+ {
+  "Brand Name": "Loxitane",
+  "Generic ": "Loxapine",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "First Generation"
+ },
+ {
+  "Brand Name": "Navane",
+  "Generic ": "Thiothixene",
+  "Drug Class": "Antipsychotics",
+  "Subclass": "First Generation"
+ },
+ {
+  "Brand Name": "Xanax",
+  "Generic ": "Alprazolam",
+  "Drug Class": "Anxiolytics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Klonopin",
+  "Generic ": "Clonazepam",
+  "Drug Class": "Anxiolytics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Valium",
+  "Generic ": "Diazepam",
+  "Drug Class": "Anxiolytics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Ativan",
+  "Generic ": "Lorazepam",
+  "Drug Class": "Anxiolytics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Librium",
+  "Generic ": "Chlordiazepoxide",
+  "Drug Class": "Anxiolytics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Tranxene",
+  "Generic ": "Clorazepate",
+  "Drug Class": "Anxiolytics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Halcion",
+  "Generic ": "Triazolam",
+  "Drug Class": "Anxiolytics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Serax",
+  "Generic ": "Oxazepam",
+  "Drug Class": "Anxiolytics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Buspar",
+  "Generic ": "Buspirone",
+  "Drug Class": "Anxiolytics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Vistaril",
+  "Generic ": "Hydroxyzine",
+  "Drug Class": "Anxiolytics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Lithobid",
+  "Generic ": "Lithium",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Depakote and Depakene",
+  "Generic ": "Divalproex and Valproic Acid",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Trileptal",
+  "Generic ": "Oxcarbazepine",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Tegretol",
+  "Generic ": "Carbamazepine",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Dilantin",
+  "Generic ": "Phenytoin",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Felbatol",
+  "Generic ": "Felbamate",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Keppra",
+  "Generic ": "Levetiracetam",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Zonegran",
+  "Generic ": "Zonisamide",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Onfi",
+  "Generic ": "Clobazam",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Neurontin",
+  "Generic ": "Gabapentin",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Lyrica",
+  "Generic ": "Pregabalin",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Fycompa",
+  "Generic ": "Perampanel",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Luminal",
+  "Generic ": "Phenobarbital",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Topamax",
+  "Generic ": "Topiramate",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Epidiolex",
+  "Generic ": "Cannabidiol",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Lamictal",
+  "Generic ": "Lamotrigine",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Vimpat",
+  "Generic ": "Lacosamide",
+  "Drug Class": "Mood Stabilizers and Anticonvulsants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Ambien",
+  "Generic ": "Zolpidem",
+  "Drug Class": "Hypnotics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Lunesta",
+  "Generic ": "Eszopiclone",
+  "Drug Class": "Hypnotics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Rozerem",
+  "Generic ": "Ramelteon",
+  "Drug Class": "Hypnotics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Dayvigo",
+  "Generic ": "Lemborexant",
+  "Drug Class": "Hypnotics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Belsomra",
+  "Generic ": "Suvorexant",
+  "Drug Class": "Hypnotics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Restoril",
+  "Generic ": "Temazepam",
+  "Drug Class": "Hypnotics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Quviviq®",
+  "Generic ": "Daridorexant",
+  "Drug Class": "Hypnotics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Adderall",
+  "Generic ": "Dextroamphetamine\/Amphetamine",
+  "Drug Class": "ADHD Stimulants and Non-stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Azstarys®",
+  "Generic ": "Serdexmethylphenidate and Dexmethylphenidate",
+  "Drug Class": "ADHD Stimulants and Non-Stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Vyvanse",
+  "Generic ": "Lisdexamfetamine",
+  "Drug Class": "ADHD Stimulants and Non-stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Ritalin",
+  "Generic ": "Methylphenidate",
+  "Drug Class": "ADHD Stimulants and Non-stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Focalin",
+  "Generic ": "Dexmethylphenidate",
+  "Drug Class": "ADHD Stimulants and Non-stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Strattera",
+  "Generic ": "Atomoxetine",
+  "Drug Class": "ADHD Stimulants and Non-stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Kapvay",
+  "Generic ": "Clonidine",
+  "Drug Class": "ADHD Stimulants and Non-stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Intuniv",
+  "Generic ": "Guanfacine",
+  "Drug Class": "ADHD Stimulants and Non-stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Provigil",
+  "Generic ": "Modafinil",
+  "Drug Class": "ADHD Stimulants and Non-stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Nuvigil",
+  "Generic ": "armodafinil",
+  "Drug Class": "ADHD Stimulants and Non-stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Qelbree",
+  "Generic ": "Viloxazine",
+  "Drug Class": "ADHD Stimulants and Non-stimulants",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Nuedexta",
+  "Generic ": "Dextromethorphan and Quinidine",
+  "Drug Class": "Other Psychotropics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Xenazine",
+  "Generic ": "Tetrabenazine",
+  "Drug Class": "Other Psychotropics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Austedo",
+  "Generic ": "Deutetrabenazine",
+  "Drug Class": "Other Psychotropics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Ingrezza",
+  "Generic ": "Valbenazine",
+  "Drug Class": "Other Psychotropics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Inderal",
+  "Generic ": "Propranolol",
+  "Drug Class": "Other Psychotropics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Subutex",
+  "Generic ": "Buprenorphine",
+  "Drug Class": "Medically Assisted Treatment (MAT)"
+ },
+ {
+  "Brand Name": "Dolophine",
+  "Generic ": "Methadone",
+  "Drug Class": "Medically Assisted Treatment (MAT)",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Savella",
+  "Generic ": "Milnacipran",
+  "Drug Class": "Other Psychotropics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Lucemyra",
+  "Generic ": "Lofexidine",
+  "Drug Class": "Other Psychotropics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Plavix",
+  "Generic ": "Clopidogrel",
+  "Drug Class": "Antiplatelet",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Ultram",
+  "Generic ": "Tramadol",
+  "Drug Class": "Opioid Analgesics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "GENERIC ONLY",
+  "Generic ": "Codeine",
+  "Drug Class": "Opioid Analgesics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Soltamox",
+  "Generic ": "Tamoxifen",
+  "Drug Class": "Antiestrogen",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Vfend",
+  "Generic ": "Voriconazole",
+  "Drug Class": "Triazoles",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Sustiva",
+  "Generic ": "Efavirenz",
+  "Drug Class": "Non-nucleoside reverse transcriptase inhibitors (NNRTIs)",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Zohydro",
+  "Generic ": "Hydrocodone",
+  "Drug Class": "Opioid Analgesics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Revia",
+  "Generic ": "Naltrexone",
+  "Drug Class": "Other Psychotropics",
+  "Subclass": "na"
+ },
+ {
+  "Brand Name": "Prograf",
+  "Generic ": "Tacrolimus",
+  "Drug Class": "Calcineurin-inhibitor\/immunosuppressant",
+  "Subclass": "na"
+ }
+]
